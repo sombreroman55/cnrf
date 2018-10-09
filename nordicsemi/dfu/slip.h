@@ -1,6 +1,5 @@
 /* slip.h
  * Header for SLIP packet structures as well as encoding/decoding
- *
  */
 #ifndef _SLIP_H_
 #define _SLIP_H_
